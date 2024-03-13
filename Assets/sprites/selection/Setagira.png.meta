@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 31cbf627b2a6540e7be3adc80ef30b87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9212730639759681282
+    second: Setagira_0
+  - first:
+      213: -4196857809084122029
+    second: Setagira_1
+  - first:
+      213: -7904119670774269215
+    second: Setagira_2
+  - first:
+      213: -2832701457692214306
+    second: Setagira_3
+  - first:
+      213: 1370153804893292799
+    second: Setagira_4
+  - first:
+      213: 7937503302378740784
+    second: Setagira_5
+  - first:
+      213: 5226057085674191873
+    second: Setagira_6
+  - first:
+      213: 3850534605789946640
+    second: Setagira_7
+  - first:
+      213: -4165812455300349843
+    second: Setagira_8
+  - first:
+      213: 4300070233896503900
+    second: Setagira_9
+  - first:
+      213: -6928507136148167030
+    second: Setagira_10
+  - first:
+      213: 4210885505867266519
+    second: Setagira_11
+  - first:
+      213: 988914937215231677
+    second: Setagira_12
+  - first:
+      213: -8620724639594579920
+    second: Setagira_13
+  - first:
+      213: -4447737638871777346
+    second: Setagira_14
+  - first:
+      213: 5516329432232683713
+    second: Setagira_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Setagira_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 314
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef854c55b4ec52080800000000000000
+      internalID: -9212730639759681282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 314
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c77bcfe04c1c5c0800000000000000
+      internalID: -4196857809084122029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 314
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea7259890dee4290800000000000000
+      internalID: -7904119670774269215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 314
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb3683580930b8d0800000000000000
+      internalID: -2832701457692214306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_4
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 322
+        width: 218
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8805c40a3c30310800000000000000
+      internalID: 1370153804893292799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_5
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 332
+        width: 218
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c56c5e23da72e60800000000000000
+      internalID: 7937503302378740784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 185
+        width: 218
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cf5870b3fa68840800000000000000
+      internalID: 5226057085674191873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 218
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013657da2d8df6530800000000000000
+      internalID: 3850534605789946640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 187
+        width: 218
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60cce0b4af0036c0800000000000000
+      internalID: -4165812455300349843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_9
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 185
+        width: 218
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac1a0581becab30800000000000000
+      internalID: 4300070233896503900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_10
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 177
+        width: 218
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86212ee77ff8df90800000000000000
+      internalID: -6928507136148167030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_11
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 167
+        width: 218
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93f0fae02107a30800000000000000
+      internalID: 4210885505867266519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6aac955e459bd00800000000000000
+      internalID: 988914937215231677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 4
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f1866d980d5880800000000000000
+      internalID: -8620724639594579920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 4
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb9ecbe267642c0800000000000000
+      internalID: -4447737638871777346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Setagira_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 4
+        width: 218
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8e2405460fd8c40800000000000000
+      internalID: 5516329432232683713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Setagira_6: 5226057085674191873
+      Setagira_3: -2832701457692214306
+      Setagira_13: -8620724639594579920
+      Setagira_11: 4210885505867266519
+      Setagira_15: 5516329432232683713
+      Setagira_14: -4447737638871777346
+      Setagira_4: 1370153804893292799
+      Setagira_5: 7937503302378740784
+      Setagira_10: -6928507136148167030
+      Setagira_7: 3850534605789946640
+      Setagira_0: -9212730639759681282
+      Setagira_9: 4300070233896503900
+      Setagira_1: -4196857809084122029
+      Setagira_2: -7904119670774269215
+      Setagira_12: 988914937215231677
+      Setagira_8: -4165812455300349843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
